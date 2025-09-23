@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Все новости
 ---
 
 {% for tag in site.tags %}
