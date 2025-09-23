@@ -20,14 +20,11 @@ email: "h4cker3ru@yandex.ru"
 #########################################################################################
 theme: "minima"
 
-rss: false
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
     
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
